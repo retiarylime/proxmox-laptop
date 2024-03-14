@@ -8,7 +8,6 @@ A compiled guide to install proxmox on a laptop without the need of ethernet cab
 4. [Rufus](https://rufus.ie/en/)
 5. [Proxmox iso](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso "Proxmox iso")
 6. Debian packages - [wpa_supplicant](https://packages.debian.org/search?keywords=wpasupplicant "wpa_supplicant"), [rfkill](https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=names&keywords=rfkill), [dnsmasq](https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=names&keywords=dnsmasq), [dnsutils](https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=names&keywords=dnsutils)
-
 _*dont forget to download  dependencies for each package_
 
 ## Step-by-step
