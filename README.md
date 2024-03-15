@@ -1,7 +1,7 @@
 # Install Proxmox On Laptop & Wifi Setup
 A compiled guide to install proxmox on a laptop without the need of ethernet cable.
 
-### Prerequisites:
+### Prerequisite:
 1. Laptop with minimum system requirements to run Proxmox
 2. Home wifi
 3. Two USB flash drive at least 4GB each
